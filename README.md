@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kexueyi&label=Profile%20views&color=0e75b6&style=flat" alt="kexueyi" /> </p>
 
-- 🔭 I’m currently working on **Explainable AI(XAI), Image Analysis**
+- 🔭 I’m currently working on **Explainable AI(XAI), Zero-shot Learning**
 
-- 🌱 I’m currently learning **Domain Knowledge Adaptation, LLMs**
+- 🌱 I’m currently learning **Interpretable AI, Fully Homomorphic Encryption(FHE)**
 
 - 📖 I majored in EE&CS at **Wuhan University, NTU Singapore**
 
